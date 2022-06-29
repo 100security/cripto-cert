@@ -7,5 +7,5 @@ O cripto-cert é um script em PowerShell que permite que você criptografe um ar
 ![](https://www.100security.com.br/images/cripto-cert-08.png)
 
 # Artigo
-https://www.100security.com.br/cripto-cert
+www.100security.com.br/cripto-cert
 
